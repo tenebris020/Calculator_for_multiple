@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\bin\Debug\mnojestvo.exe.config
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\bin\Debug\mnojestvo.exe
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\bin\Debug\mnojestvo.pdb
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.Form1.resources
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.Properties.Resources.resources
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.exe
+C:\Users\angel\source\repos\mnojestvo\mnojestvo\obj\Debug\mnojestvo.pdb
